@@ -1,4 +1,3 @@
 <?php
-echo "Hello Groupmates";
-echo "I'm John Wayne"
-    ?>
+echo "Hello Groupmates, I'm John Wayne";
+?>
